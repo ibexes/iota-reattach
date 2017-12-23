@@ -14,7 +14,11 @@ navigate to a good directory
 
 # how to use
 this command
+
 `node iota <bundle>`
 
 # example
-``
+`node iota WQNEHPDKLWUXZJYAJLOU9KPLDFJXQJ9UKDXDJJNOVYLWKLJLYWBLZWMFRGNUYAWQEHCRECYJXHSIPDTIC`
+
+# debugging flags
+`--trace-warnings`
